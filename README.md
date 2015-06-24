@@ -1,4 +1,4 @@
-# simple-scrypt  [![GoDoc](https://godoc.org/github.com/elithrar/simple-scrypt?status.svg)](https://godoc.org/github.com/elithrar/simple-scrypt) [![Build Status](https://travis-ci.org/elithrar/simple-scrypt.svg)](https://travis-ci.org/elithrar/simple-scrypt)
+# simple-scrypt  [![GoDoc](https://godoc.org/github.com/elithrar/simple-scrypt?status.svg)](https://godoc.org/github.com/elithrar/simple-scrypt) [![Build Status](https://semaphoreci.com/api/v1/projects/25fe79eb-f0d0-494e-afb6-0d69404fc584/464465/badge.svg)](https://semaphoreci.com/elithrar/simple-scrypt)      
 
 simple-scrypt provides a convenience wrapper around Go's existing [scrypt](http://golang.org/x/crypto/scrypt) package that makes it easier to securely derive strong keys ("hash user passwords"). This library allows you to:
 
